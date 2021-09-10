@@ -49,7 +49,13 @@
 
 ## Types
 
-* What is a cardinality?
+* What is cardinality?
+* Should isomorphic types have the same cardinality?
+* What is the notion of isomorphism when we are talking about types?
+
+#### Exercises
+
+* [Kata - isomorphism](https://www.codewars.com/kata/isomorphism)
 
 #### Resources
 
